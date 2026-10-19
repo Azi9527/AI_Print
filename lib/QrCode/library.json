@@ -1,0 +1,8 @@
+{
+    "name": "QrCode",
+    "version": "1.0.0",
+    "description": "Nayuki QR Code generator (C++, MIT), vendored for test page printing",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
